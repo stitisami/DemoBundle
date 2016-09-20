@@ -1,5 +1,5 @@
 {
-    "name" : "company/demobundle",
+    "name" : "stitisami/demobundle",
     "description" : "A demo bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -19,7 +19,7 @@
             "Company\\DemoBundle" : ""
         }
     },
-    "target-dir" : "Company/DemoBundle",
+    "target-dir" : "stitisami/DemoBundle",
     "repositories" : [{
     }],
     "extra" : {
