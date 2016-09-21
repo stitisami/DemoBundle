@@ -1,5 +1,5 @@
 {
-    "name" : "stitisami/demobundle",
+    "name" : "Company/demobundle",
     "description" : "A demo bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -16,7 +16,7 @@
     },
     "autoload" : {
         "psr-0" : {
-            "Company\\DemoBundle" : ""
+            "stitisami\\DemoBundle" : ""
         }
     },
     "target-dir" : "stitisami/DemoBundle",
